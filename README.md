@@ -5,6 +5,10 @@ SnappyAI is our application for EthGlobal Brussels
 
 Here's our video presentation [youtube link](https://youtube.com)
 
+## Presentation Slides
+
+[link to presentation](https://pitch.com/v/snappyai-5qriae)
+
 ## Repositories
 
 Here's a list of all the repositories:
